@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Khaja Moinuddin</h1>
 
-<h3 align="center">A passionate Backend Developer with proficiency in Core Java,JPA Hibernate and Spring Boot. Looking forward to applying and enhancing my skills and knowledge as a backend developer through challenging and exciting opportunities.</h3>
+<h3 align="center">A passionate Backend Developer with proficiency in Core Java, JPA Hibernate and Spring Boot. Looking forward to applying and enhancing my skills and knowledge as a backend developer through challenging and exciting opportunities.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
