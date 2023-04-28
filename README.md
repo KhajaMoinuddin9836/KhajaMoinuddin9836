@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **JAVA Project**
 
-- 👨‍💻 All of my projects are available at [https://khajaMoinuddin9836.github.io/)
+- 👨‍💻 All of my projects are available at [https://khajamoinuddin9836.github.io/)
 
 - 💬 Ask me about **JAVA | SQL | SPRING BOOT | Hibernate |**
 
